@@ -1,6 +1,6 @@
 # Text Summarization for Urdu and English mixed language
 
-This project implements a text summarization algorithm for mixed languages, specifically Urdu and English. The algorithm includes POS tagging and TF-IDF calculation.
+This project implements a text summarization algorithm for mixed languages, specifically Urdu and English.
 
 ## Requirements
 - Python 3.x
