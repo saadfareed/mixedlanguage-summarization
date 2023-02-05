@@ -10,7 +10,13 @@ This project implements a text summarization algorithm for mixed languages, spec
 
 ## Usage
 1. Clone the repository
-
+```git
+https://github.com/saadfareed/mixedlanguage-summarization.git
+```
+2. Install libraries 
+```python
+pip install scikit-learn nltk pandas
+```
 
 
 ## Results
